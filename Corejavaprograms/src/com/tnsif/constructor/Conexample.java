@@ -1,5 +1,5 @@
 package com.tnsif.constructor;
-
+// parameter con
 public class Conexample {
 	Conexample(){
 		System.out.println("default con");
